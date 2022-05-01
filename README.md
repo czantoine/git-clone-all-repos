@@ -10,6 +10,10 @@ Here's a simple solution using the official GitHub CLI tool, gh - no need for AP
 
 With brew
 
+``` shell 
+brew install gh
+```
+
 ``` shell
 gh auth login
 ```
