@@ -19,8 +19,11 @@ gh auth login
 ```
 
 What account do you want to log into? GitHub.com
+
 What is your preferred protocol for Git operations? HTTPS
+
 Authenticate Git with your GitHub credentials? Yes
+
 How would you like to authenticate GitHub CLI? Login with a web browser
 
 Copy and Paste `! First copy your one-time code: XXXX-XXXX`
