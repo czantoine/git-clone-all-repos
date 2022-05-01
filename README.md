@@ -1,4 +1,4 @@
-# Git clone All-repositories
+# Git clone all repositories
 
 Clone all repositories from user or organisation 
 
